@@ -9,7 +9,7 @@
 ---
 
 🧠 Tecnologias que estou aprendendo e praticando
-<p> <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff" /> <img src="https://img.shields.io/badge/MySQL-00000f?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> 
+<p> <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff" /> <img src="https://img.shields.io/badge/MySQL-00000f?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> </p>
 ---
 
 ### 💼 Projetos em destaque
@@ -20,7 +20,6 @@
 - 🛠️ **Software de gerenciamento para loja de manutenção de computadores**  
   CRUD completo feito com Python, utilizando interface gráfica e banco de dados.
 
-> 🚧 *Links dos repositórios podem ser adicionados aqui quando estiverem públicos.*
 
 ---
 
