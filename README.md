@@ -2,7 +2,7 @@
 
 <p align="center">
   🧑‍💻 Estudante na área de programação <br>
-  🚀 Focado em Python e SQL | Aprendendo IA, Django e JavaScript <br>
+  🚀 Aprendendo Python, SQL e Django <br>
   📌 Procurando minha primeira oportunidade na área de tecnologia
 </p>
 
