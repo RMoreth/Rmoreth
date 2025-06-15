@@ -14,10 +14,10 @@
 
 ### 💼 Projetos em destaque
 
-- 🎓 **Sistema de banco de dados para uma universidade**  (incompleto)
+- 🎓 **Sistema de banco de dados para uma universidade (incompleto)**  
   Projeto acadêmico modelando e manipulando um banco relacional com MySQL.
 
-- 🛠️ **Software de gerenciamento para loja de manutenção de computadores**  (incompleto)
+- 🛠️ **Software de gerenciamento para loja de manutenção de computadores (incompleto)**  
   CRUD completo feito com Python, utilizando interface gráfica e banco de dados.
 
 
